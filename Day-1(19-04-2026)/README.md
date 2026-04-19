@@ -1,4 +1,5 @@
 # The code of Example 01
+~~~
 public class Car {
     String color;
     String model;
@@ -19,4 +20,5 @@ public class Main{
   myCar.displayInfo();
     }
 }
+~~~
 # The Code of Example 02
