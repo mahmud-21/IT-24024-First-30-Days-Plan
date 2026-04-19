@@ -1,2 +1,6 @@
 # IT-24024-First-30-Days-Plan
-This repository will contain the JAVA code which will be practiced  daily by me .
+# Date:19-04-2026
+## Day #01
+## Topic Name : Creating class and Objecct
+# Video Link : https://youtu.be/lWFzm8qIR1c?si=H5U8v8RDIWxkBxzG
+
