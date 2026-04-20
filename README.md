@@ -19,4 +19,4 @@ https://youtu.be/HZUUYnIZO_0?si=vGzRNHMtLlLg2Bd7
 
 
 # Example Code link
-
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-02(20-04-2026)
