@@ -37,12 +37,14 @@ https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-
 # Video Link :
 https://youtu.be/ZaQ9Br0-Sbo?si=QP_Qyqdp7em5PYAP
 ## The Things I have learned from the  video -->
+~~~
   *How to create a constructor
   *What is the difference between constructor and method
   *the properties of a constructor
+~~~
 
 # Example Code link
-https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-04(22-04-2026)
 # Date:23-04-2026
 ## Day #05
 ## Topic Name :Parameterised Method in Class
