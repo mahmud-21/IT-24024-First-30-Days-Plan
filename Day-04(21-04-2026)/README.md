@@ -15,8 +15,8 @@ public class Teacher{
     }
     void displayInformation(){
         System.out.println("Teacher's Name : "+Name);
-        System.out.println("Teacher's Name : "+Gender);
-        System.out.println("Teacher's Name : "+phone);
+        System.out.println("Teacher's Gender : "+Gender);
+        System.out.println("Teacher's Phone : "+phone);
         System.out.println("\n\n");
     }
 }
