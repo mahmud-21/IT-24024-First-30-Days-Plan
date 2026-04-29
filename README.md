@@ -59,11 +59,14 @@ https://youtu.be/oFAWd4l9zQE?si=B38K3cL1nPwN7tQO
 https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-05(23-04-2026)
 # Date:24-04-2026
 ## Day #06
-## Topic Name :Parameterised Method in Class
+## Topic Name :Returning a Value from Method
 # Video Link :
-https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+https://youtu.be/oVoKwpmQjR0?si=e91I0R4eCOP9pHXV
 ## The Things I have learned from the  video -->
-
+  ~~~
+  *How to get any thing using method
+  * How to use return type method
+  ~~~
 
 # Example Code link
 https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-06(24-04-2026)
