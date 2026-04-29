@@ -3,7 +3,7 @@
 public class Teacher{
     String Name,Gender;
     int phone;
-    Teacher(){
+    Teacher(){//default constructor
         System.out.println("No Data Received !");
     }
     Teacher(String n,String g){
@@ -15,7 +15,7 @@ public class Teacher{
         Gender = g;
         phone=p;
     }
-    void displayInformation(){
+    void displayInformation(){//Method
         System.out.println("Teacher's Name : "+Name);
         System.out.println("Teacher's Gender : "+Gender);
         System.out.println("Teacher's Phone : "+phone);
