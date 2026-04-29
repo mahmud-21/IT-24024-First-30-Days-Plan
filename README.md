@@ -35,7 +35,7 @@ https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-
 ## Day #04
 ## Topic Name :Creating constructor
 # Video Link :
-https://youtu.be/ZaQ9Br0-Sbo?si=QP_Qyqdp7em5PYAP
+https://youtu.be/acfR5vRTZvc?si=13L_hon4gvbHWn5n
 ## The Things I have learned from the  video -->
 ~~~
   *How to create a constructor
