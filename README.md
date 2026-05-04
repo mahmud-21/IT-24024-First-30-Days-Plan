@@ -120,3 +120,56 @@ https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7
 
 # Example Code link
 https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+# Date:30-04-2026
+## Day #12
+## Topic Name :Parameterised Method in Class
+# Video Link :
+https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+## The Things I have learned from the  video -->
+
+
+# Example Code link
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+# Date:01-05-2026
+## Day #13
+## Topic Name :Parameterised Method in Class
+# Video Link :
+https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+## The Things I have learned from the  video -->
+
+
+# Example Code link
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+# Date:02-05-2026
+## Day #14
+## Topic Name :Parameterised Method in Class
+# Video Link :
+https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+## The Things I have learned from the  video -->
+
+
+# Example Code link
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+# Date:03-05-2026
+## Day #15
+## Topic Name :Parameterised Method in Class
+# Video Link :
+https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+## The Things I have learned from the  video -->
+
+
+# Example Code link
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+# Date:04-05-2026
+## Day #16
+## Topic Name :Parameterised Method in Class
+# Video Link :
+https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+## The Things I have learned from the  video -->
+
+
+# Example Code link
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+
+
+
