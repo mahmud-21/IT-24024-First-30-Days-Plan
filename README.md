@@ -72,11 +72,14 @@ https://youtu.be/oVoKwpmQjR0?si=e91I0R4eCOP9pHXV
 https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-06(24-04-2026)
 # Date:25-04-2026
 ## Day #07
-## Topic Name :Parameterised Method in Class
-# Video Link :
-https://www.youtube.com/watch?v=hvbCvpnvMaY&list=PLcEuaNCs5KFZbfjKRzeF5sooADkvc7qWy&index=3
+## Topic Name :
+# Video Link :Static variable
+https://youtu.be/K3RXf7IMwWs?si=7Gda6_uOQOFW8ZR0
 ## The Things I have learned from the  video -->
-
+~~~
+ *How to and when to use the static varible 
+ *What is the imporrtance of static variable
+~~~
 
 # Example Code link
 https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
