@@ -75,14 +75,15 @@ https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-06(24-04-
 ## Topic Name :
 # Video Link :Static variable
 https://youtu.be/K3RXf7IMwWs?si=7Gda6_uOQOFW8ZR0
+https://youtu.be/oS2k1JTnRdc?si=rCscmcVMCjWvzR9x
 ## The Things I have learned from the  video -->
 ~~~
  *How to and when to use the static varible 
  *What is the imporrtance of static variable
+ *We don't have to create an Object to access a static variable 
 ~~~
-
 # Example Code link
-https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-03(21-04-2026)
+https://github.com/mahmud-21/IT-24024-First-30-Days-Plan/tree/main/Day-07(25-04-2026)
 # Date:26-04-2026
 ## Day #08
 ## Topic Name :Parameterised Method in Class
