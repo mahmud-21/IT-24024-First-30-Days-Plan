@@ -8,7 +8,7 @@ public class Student{
     }
     void displayInfo(){
         System.out.println("The name of the Student :"+name);
-        System.out.println("The nid of the Student :"+id);
+        System.out.println("The id of the Student :"+id);
         System.out.println("The name of the university : "+UniversityName);
     }
 }
