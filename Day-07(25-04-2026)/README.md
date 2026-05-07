@@ -32,3 +32,32 @@ ublic class staticVariableTest{
     }
 }
 ~~~
+# The code of Example 03
+~~~
+public class Student {
+   static int count=0;
+   Student(){
+       count++;
+   }
+   void display(){
+       System.out.println("The total Student :"+count);
+   }
+}
+public class Main{
+    public static void main(String[] args) {
+        Student s1=new Student();
+        s1.display();
+        Student s2=new Student();
+        s2.display();
+        Student s3=new Student();
+        s3.display();
+
+    }
+}
+~~~
+# The Output of Example 03
+~~~
+The total Student :1
+The total Student :2
+The total Student :3
+~~~
